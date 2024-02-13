@@ -1,0 +1,24 @@
+h1 {
+    font-style: inherit;
+    color: rgb(112, 151, 44);
+    font-size: 50px;
+}
+ul {
+    color: #a80392;
+}
+li {
+    color: rgb(56, 161, 82);
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+a {
+    color: rgb(19, 161, 126);
+}
+body {
+    background-color: rgba(128, 128, 128, 0.514);
+}
+ul {
+    padding: 2;
+    margin: 30px;
+}
